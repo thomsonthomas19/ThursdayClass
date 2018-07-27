@@ -1,2 +1,2 @@
 # ThursdayClass
-CLass for Thursday
+Class for Thursday
