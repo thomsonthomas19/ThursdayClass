@@ -1,0 +1,2 @@
+# ThursdayClass
+CLass for Thursday
